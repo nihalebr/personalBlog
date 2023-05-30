@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Ebrahim Nihal",
   desc: "Ebrahim Nihal's Personal Page created using Astro.",
   title: "nihalebr",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "nihalebr-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };

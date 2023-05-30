@@ -12,6 +12,7 @@ Hi myself Ebrahim, I'm certified system admin from RedHat also a webdev. I'm pro
 ## Tech Stack
 
 My current Stack:
+
 - TypeScript/javascript
 - vue js
 - node js
@@ -19,6 +20,7 @@ My current Stack:
 - Firebase
 
 Currently learning:
+
 - Ansible
 - Go (Go lang)
 

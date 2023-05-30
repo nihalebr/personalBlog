@@ -47,7 +47,7 @@ Inside of AstroPaper, you'll see the following folders and files:
 │   │   └── logo.svg
 │   │   └── logo.png
 │   └── favicon.svg
-│   └── astropaper-og.jpg
+│   └── nihalebr-og.jpg
 │   └── robots.txt
 │   └── toggle-theme.js
 ├── src/
@@ -95,7 +95,7 @@ Documentation can be read in two formats\_ _markdown_ & _blog post_.
 **Fuzzy Search** - [FuseJS](https://fusejs.io/)  
 **Icons** - [Boxicons](https://boxicons.com/) | [Tablers](https://tabler-icons.io/)  
 **Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
+**Deployment** - [Netlify](https://pages.cloudflare.com/)  
 **Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
 **Linting** - [ESLint](https://eslint.org)
 
